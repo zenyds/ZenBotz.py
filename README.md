@@ -6,3 +6,5 @@ A simple discord bot with some games and commands
 also change the token in the code for your bot its at the bottom
 
 theres also ai you have to set the channel
+
+you will also have to have the packages install that are needed
